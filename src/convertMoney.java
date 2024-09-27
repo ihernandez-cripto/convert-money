@@ -1,3 +1,5 @@
+import static java.lang.System.out;
+
 public class convertMoney {
     public static void main(String[] args) {
         String menu = """
@@ -5,6 +7,6 @@ public class convertMoney {
                 1. Peso Colombiano (PCO) a Dolar (US)
                 7. Salir
                 """;
-
+        out.println(menu);
     }
 }
