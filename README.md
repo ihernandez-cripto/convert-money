@@ -17,10 +17,6 @@ CONVERSOR DE MONEDA
 
 - [Acceso al proyecto](#acceso-proyecto)
 
-- [Abrir y ejecutar el proyecto](#abrir-ejecutar-proyecto)
-
-- [Despliegue](#despliegue)
-
 ## Descripción del Proyecto
 El conversor de moneda, ofrece al usuario 6 opciones de convertir monedas, consume una API para mostrar información actualizada.
 ## Funcionalidades
@@ -48,3 +44,6 @@ El conversor de moneda, ofrece al usuario 6 opciones de convertir monedas, consu
 `La cantidad : [1.0] USD Equivale a: [4191.3937] COP`
 ## Herramientas utilizadas
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+## Acceso al proyecto
+[<a href="[https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"](https://github.com/ihernandez-cripto/convert-money.git)/> </a> ](https://github.com/ihernandez-cripto/convert-money.git)
+
