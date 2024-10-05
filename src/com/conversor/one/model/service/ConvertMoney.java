@@ -15,7 +15,7 @@ public class ConvertMoney {
         String menu = """
            **********************************************
             Bienvenido al conversor de Moneda
-                1. Peso Colombiano (COP) => Dollar (US).
+                1. Peso Colombiano (COP) => Dollar (USD).
                 2. Dollar (USD) => Peso Colombiano (COP).
                 3. Peso Argentino (ARS) => Dollar (USD).
                 4. Dollar (USD) => Peso Argentino (ARS).
