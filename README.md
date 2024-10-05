@@ -31,3 +31,5 @@ El conversor de moneda, ofrece al usuario 6 opciones de convertir monedas, consu
 :heavy_check_mark: `Funcionalidad 3:` Formatear la información recibida en Json a formato Java.
 
 :heavy_check_mark: `Funcionalidad 4:` Mostrar la cantidad total convertida a la moneda destino.
+## Aplicación
+
