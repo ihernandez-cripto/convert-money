@@ -32,4 +32,19 @@ El conversor de moneda, ofrece al usuario 6 opciones de convertir monedas, consu
 
 :heavy_check_mark: `Funcionalidad 4:` Mostrar la cantidad total convertida a la moneda destino.
 ## Aplicación
-
+******* Bienvenido al conversor de Moneda *******
+                1. Peso Colombiano (COP) a Dollar (US).
+                2. Dollar (US) - Peso Colombiano (COP).
+                3. Peso Argentino () - Dollar.
+                4. Dollar (USD) - Peso Argentino ().
+                5. Real Brasilero () - Dollar (USD).
+                6. Dollar (USD) - Real Brasilero ().
+                7. Salir.
+Selecciona una opción (1-7):
+2
+Cantidad de divisas a convertir: 
+1
+Elegiste Dollar (USD) - Peso Colombiano (COP).
+La cantidad : [1.0] USD Equivale a: [4191.3937] COP
+## Herramientas utilizadas
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
