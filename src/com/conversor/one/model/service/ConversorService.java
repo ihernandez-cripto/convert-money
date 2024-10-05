@@ -23,7 +23,7 @@ public class ConversorService {
             String respuestaJson = response.body();
             Gson gson = new Gson();
             RespuestaAPI recibeJason = gson.fromJson(respuestaJson, RespuestaAPI.class);
-            return recibeJason.conversion_rate();
+            return recibeJason.conversion_result();
     }
 }
 
