@@ -13,13 +13,14 @@ public class ConvertMoney {
         Scanner opcion = new Scanner(System.in);
         Scanner divisas = new Scanner(System.in);
         String menu = """
-                ******* Bienvenido al conversor de Moneda *******
-                1. Peso Colombiano (COP) a Dollar (US).
-                2. Dollar (US) - Peso Colombiano (COP).
-                3. Peso Argentino () - Dollar.
-                4. Dollar (USD) - Peso Argentino ().
-                5. Real Brasilero () - Dollar (USD).
-                6. Dollar (USD) - Real Brasilero ().
+           **********************************************
+            Bienvenido al conversor de Moneda
+                1. Peso Colombiano (COP) => Dollar (US).
+                2. Dollar (USD) => Peso Colombiano (COP).
+                3. Peso Argentino (ARS) => Dollar (USD).
+                4. Dollar (USD) => Peso Argentino (ARS).
+                5. Real Brasilero (BRL) => Dollar (USD).
+                6. Dollar (USD) => Real Brasilero (BRL).
                 7. Salir.
                 """;
 
